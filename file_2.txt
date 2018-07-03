@@ -1,3 +1,4 @@
 different
+inserting one line of text
 three lines
 of text
